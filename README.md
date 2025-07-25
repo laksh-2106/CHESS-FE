@@ -35,6 +35,7 @@
 
 ## Images
 <img src="./images/Landing.png" width="200" style="margin: 40px;" /> <img src="./images/PlayerMatching.png" height="200" style="margin: 40px;"  /> <img src="./images/GamePlay.png" height="200" width="200" style="margin: 40px;" /> <img src="./images/Ipad.png"  height="200" width="200" style="margin: 40px;" /> <img src="./images/GameOver-1.png" height="200" width="200" style="margin: 40px;" /> <img src="./images/gameOver-2.png" height="200" width="200" style="margin: 40px;" />
+![image alt](https://github.com/laksh-2106/CHESS-FE/tree/2a5631e4091dafee9292cc7602294f12db48e302/Chess-FE-main/images)
 
 
 
