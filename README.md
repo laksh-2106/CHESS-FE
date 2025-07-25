@@ -31,7 +31,12 @@
    npm install
 3. **Start server**:
    ```bash
-   npm start
+   npm start **
+
+ #
+ ![Image Alt](https://github.com/laksh-2106/CHESS-FE/tree/66711a604f2f0b939b96dd927b87d44c1e85a8e0/images)
+
+    
 
 
 
