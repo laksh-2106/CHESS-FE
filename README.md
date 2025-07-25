@@ -33,8 +33,9 @@
    ```bash
    npm start **
 
- #
- ![Image Alt](https://github.com/laksh-2106/CHESS-FE/tree/66711a604f2f0b939b96dd927b87d44c1e85a8e0/images)
+ 
+ ## Images
+<img src="./images/Landing.png" width="200" style="margin: 40px;" /> <img src="./images/PlayerMatching.png" height="200" style="margin: 40px;"  /> <img src="./images/GamePlay.png" height="200" width="200" style="margin: 40px;" /> <img src="./images/Ipad.png"  height="200" width="200" style="margin: 40px;" /> <img src="./images/GameOver-1.png" height="200" width="200" style="margin: 40px;" /> <img src="./images/gameOver-2.png" height="200" width="200" style="margin: 40px;" />
 
     
 
